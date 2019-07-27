@@ -1,2 +1,6 @@
 # homebrew-taproom
-This is where I keep my 🍺
+Custom taproom for my homebrew formulae such as `todo-to-issue`
+
+```bash
+brew tap sergeichestakov/taproom
+```
